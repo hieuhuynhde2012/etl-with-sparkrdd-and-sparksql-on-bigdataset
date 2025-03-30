@@ -1,0 +1,210 @@
+[2025-03-28T02:11:54.871+0000] {processor.py:161} INFO - Started process (PID=206) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:11:54.872+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:11:54.874+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:11:54.874+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:11:56.712+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:11:56.783+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:11:56.783+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:11:56.804+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:11:56.804+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:11:56.834+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 1.968 seconds
+[2025-03-28T02:12:27.005+0000] {processor.py:161} INFO - Started process (PID=223) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:12:27.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:12:27.008+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:12:27.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:12:27.215+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:12:27.236+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:12:27.235+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:12:27.252+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:12:27.251+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:12:30.676+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 3.675 seconds
+[2025-03-28T02:13:00.805+0000] {processor.py:161} INFO - Started process (PID=297) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:13:00.806+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:13:00.809+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:13:00.808+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:13:00.996+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:13:01.013+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:13:01.013+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:13:01.026+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:13:01.026+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:13:04.299+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 3.499 seconds
+[2025-03-28T02:13:34.447+0000] {processor.py:161} INFO - Started process (PID=780) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:13:34.448+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:13:34.450+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:13:34.450+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:13:34.703+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:13:34.812+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:13:34.811+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:13:34.823+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:13:34.823+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:13:35.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 1.347 seconds
+[2025-03-28T02:14:05.928+0000] {processor.py:161} INFO - Started process (PID=792) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:14:05.930+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:14:05.932+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:14:05.932+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:14:06.166+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:14:06.183+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:14:06.183+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:14:06.282+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:14:06.281+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:14:06.445+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.521 seconds
+[2025-03-28T02:14:36.646+0000] {processor.py:161} INFO - Started process (PID=804) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:14:36.648+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:14:36.649+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:14:36.649+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:14:36.916+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:14:36.929+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:14:36.929+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:14:36.942+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:14:36.942+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:14:38.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 1.636 seconds
+[2025-03-28T02:15:08.321+0000] {processor.py:161} INFO - Started process (PID=816) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:15:08.322+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:15:08.324+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:15:08.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:15:08.596+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:15:08.610+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:15:08.610+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:15:08.623+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:15:08.623+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:15:17.696+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 9.382 seconds
+[2025-03-28T02:15:47.759+0000] {processor.py:161} INFO - Started process (PID=828) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:15:47.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:15:47.763+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:15:47.763+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:15:48.032+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:15:48.046+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:15:48.046+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:15:48.059+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:15:48.058+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:15:55.811+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 8.057 seconds
+[2025-03-28T02:16:25.997+0000] {processor.py:161} INFO - Started process (PID=840) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:16:25.998+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:16:26.000+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:16:25.999+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:16:26.263+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:16:26.276+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:16:26.276+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:16:26.288+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:16:26.288+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:16:26.302+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.308 seconds
+[2025-03-28T02:16:56.432+0000] {processor.py:161} INFO - Started process (PID=852) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:16:56.433+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:16:56.435+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:16:56.435+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:16:56.733+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:16:56.749+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:16:56.748+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:16:56.762+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:16:56.762+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:16:56.778+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.350 seconds
+[2025-03-28T02:17:27.009+0000] {processor.py:161} INFO - Started process (PID=864) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:17:27.009+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:17:27.011+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:17:27.011+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:17:27.276+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:17:27.290+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:17:27.290+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:17:27.302+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:17:27.302+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:17:27.880+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.875 seconds
+[2025-03-28T02:17:58.113+0000] {processor.py:161} INFO - Started process (PID=882) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:17:58.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:17:58.116+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:17:58.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:17:58.383+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:17:58.397+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:17:58.397+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:17:58.409+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:17:58.409+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:18:00.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 2.187 seconds
+[2025-03-28T02:18:30.401+0000] {processor.py:161} INFO - Started process (PID=894) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:18:30.403+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:18:30.404+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:18:30.404+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:18:30.668+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:18:30.683+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:18:30.683+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:18:30.695+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:18:30.695+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:18:30.707+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.310 seconds
+[2025-03-28T02:19:00.889+0000] {processor.py:161} INFO - Started process (PID=906) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:19:00.889+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:19:00.891+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:19:00.890+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:19:01.155+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:19:01.169+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:19:01.169+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:19:01.181+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:19:01.181+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:19:01.673+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.789 seconds
+[2025-03-28T02:19:31.935+0000] {processor.py:161} INFO - Started process (PID=918) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:19:31.937+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:19:31.938+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:19:31.938+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:19:32.205+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:19:32.219+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:19:32.219+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:19:32.231+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:19:32.231+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:19:39.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 7.251 seconds
+[2025-03-28T02:20:09.369+0000] {processor.py:161} INFO - Started process (PID=930) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:20:09.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:20:09.371+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:20:09.371+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:20:09.641+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:20:09.655+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:20:09.655+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:20:09.670+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:20:09.670+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:20:14.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 5.282 seconds
+[2025-03-28T02:20:44.829+0000] {processor.py:161} INFO - Started process (PID=942) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:20:44.831+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:20:44.832+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:20:44.832+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:20:45.097+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:20:45.110+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:20:45.110+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:20:45.123+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:20:45.122+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:20:45.893+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 1.067 seconds
+[2025-03-28T02:21:15.998+0000] {processor.py:161} INFO - Started process (PID=954) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:21:16.000+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:21:16.002+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:21:16.002+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:21:16.266+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:21:16.279+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:21:16.279+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:21:16.292+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:21:16.292+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:21:20.562+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 4.568 seconds
+[2025-03-28T02:21:50.822+0000] {processor.py:161} INFO - Started process (PID=966) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:21:50.823+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:21:50.824+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:21:50.824+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:21:51.083+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:21:51.096+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:21:51.096+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:21:51.109+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:21:51.109+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:22:28.779+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 37.963 seconds
+[2025-03-28T02:22:58.901+0000] {processor.py:161} INFO - Started process (PID=984) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:22:58.902+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:22:58.904+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:22:58.904+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:22:59.156+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:22:59.169+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:22:59.169+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:22:59.182+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:22:59.182+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:22:59.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.856 seconds
+[2025-03-28T02:23:30.038+0000] {processor.py:161} INFO - Started process (PID=996) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:23:30.039+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:23:30.041+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:23:30.040+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:23:30.294+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:23:30.309+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:23:30.309+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:23:30.323+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:23:30.323+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:23:57.183+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 27.150 seconds
+[2025-03-28T02:24:27.502+0000] {processor.py:161} INFO - Started process (PID=1008) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:24:27.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:24:27.504+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:24:27.504+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:24:27.694+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:24:27.709+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:24:27.709+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:24:27.723+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:24:27.723+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:24:31.118+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 3.620 seconds
+[2025-03-28T02:25:01.425+0000] {processor.py:161} INFO - Started process (PID=1021) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:25:01.426+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:25:01.427+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:25:01.427+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:25:01.618+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:25:01.635+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:25:01.635+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:25:01.648+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:25:01.648+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:25:22.695+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 21.272 seconds
+[2025-03-28T02:25:52.816+0000] {processor.py:161} INFO - Started process (PID=1039) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:25:52.817+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:25:52.819+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:25:52.819+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:25:53.022+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:25:53.037+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:25:53.036+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:25:53.051+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:25:53.050+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:26:10.296+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 17.486 seconds
+[2025-03-28T02:26:40.541+0000] {processor.py:161} INFO - Started process (PID=1050) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:26:40.672+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:26:40.678+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:26:40.677+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:26:40.874+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:26:40.890+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:26:40.890+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:26:40.975+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:26:40.975+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:26:41.372+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.835 seconds
+[2025-03-28T02:27:11.593+0000] {processor.py:161} INFO - Started process (PID=1062) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:27:11.594+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:27:11.595+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:27:11.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:27:11.792+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:27:11.808+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:27:11.807+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:27:11.893+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:27:11.893+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:27:11.920+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.331 seconds
+[2025-03-28T02:27:42.150+0000] {processor.py:161} INFO - Started process (PID=1074) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:27:42.150+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:27:42.152+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:27:42.152+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:27:42.421+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:27:42.435+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:27:42.435+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:27:42.448+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:27:42.448+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:27:42.470+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.324 seconds
+[2025-03-28T02:28:12.674+0000] {processor.py:161} INFO - Started process (PID=1086) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:28:12.674+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:28:12.676+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:28:12.676+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:28:12.944+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:28:12.958+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:28:12.958+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:28:12.971+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:28:12.971+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:28:12.985+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.315 seconds
+[2025-03-28T02:28:43.243+0000] {processor.py:161} INFO - Started process (PID=1098) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:28:43.244+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:28:43.246+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:28:43.245+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:28:43.513+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:28:43.530+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:28:43.530+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:28:43.542+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:28:43.542+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:28:43.578+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.338 seconds
+[2025-03-28T02:29:13.804+0000] {processor.py:161} INFO - Started process (PID=1110) to work on /opt/airflow/dags/github_etl.py
+[2025-03-28T02:29:13.805+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/github_etl.py for tasks to queue
+[2025-03-28T02:29:13.806+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:29:13.806+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:29:14.077+0000] {processor.py:840} INFO - DAG(s) 'github_etl' retrieved from /opt/airflow/dags/github_etl.py
+[2025-03-28T02:29:14.091+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:29:14.090+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-03-28T02:29:14.103+0000] {logging_mixin.py:188} INFO - [2025-03-28T02:29:14.103+0000] {dag.py:3954} INFO - Setting next_dagrun for github_etl to 2025-03-28 00:00:00+00:00, run_after=2025-03-29 00:00:00+00:00
+[2025-03-28T02:29:14.155+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/github_etl.py took 0.355 seconds

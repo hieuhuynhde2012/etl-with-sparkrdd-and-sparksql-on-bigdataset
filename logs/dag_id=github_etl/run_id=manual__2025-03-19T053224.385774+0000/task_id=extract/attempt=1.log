@@ -1,0 +1,17 @@
+[2025-03-19T05:32:25.007+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-03-19T05:32:25.025+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: github_etl.extract manual__2025-03-19T05:32:24.385774+00:00 [queued]>
+[2025-03-19T05:32:25.030+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: github_etl.extract manual__2025-03-19T05:32:24.385774+00:00 [queued]>
+[2025-03-19T05:32:25.031+0000] {taskinstance.py:2306} INFO - Starting attempt 1 of 1
+[2025-03-19T05:32:25.042+0000] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): extract> on 2025-03-19 05:32:24.385774+00:00
+[2025-03-19T05:32:25.045+0000] {standard_task_runner.py:63} INFO - Started process 7874 to run task
+[2025-03-19T05:32:25.047+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'github_etl', 'extract', 'manual__2025-03-19T05:32:24.385774+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/github_etl.py', '--cfg-path', '/tmp/tmpbq14mdv_']
+[2025-03-19T05:32:25.049+0000] {standard_task_runner.py:91} INFO - Job 15: Subtask extract
+[2025-03-19T05:32:25.085+0000] {task_command.py:426} INFO - Running <TaskInstance: github_etl.extract manual__2025-03-19T05:32:24.385774+00:00 [running]> on host cc427449653e
+[2025-03-19T05:32:25.224+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='github_etl' AIRFLOW_CTX_TASK_ID='extract' AIRFLOW_CTX_EXECUTION_DATE='2025-03-19T05:32:24.385774+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-03-19T05:32:24.385774+00:00'
+[2025-03-19T05:32:25.226+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-03-19T05:32:27.238+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-03-19T05:32:27.239+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-03-19T05:32:27.244+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=github_etl, task_id=extract, run_id=manual__2025-03-19T05:32:24.385774+00:00, execution_date=20250319T053224, start_date=20250319T053225, end_date=20250319T053227
+[2025-03-19T05:32:27.276+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-03-19T05:32:27.290+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-03-19T05:32:27.321+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
